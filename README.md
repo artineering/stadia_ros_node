@@ -48,3 +48,20 @@ To deploy this project run
 >> ros2 run stadia stadia_node
 ```
 
+## Screenshots
+### Startup Screen
+![image](https://github.com/artineering/stadia_ros_node/assets/5471319/de06fd0e-8032-42f6-8b33-47623512db45)
+
+### Stadia controller is connected
+![image](https://github.com/artineering/stadia_ros_node/assets/5471319/d3a50d8c-7864-439b-b6d8-59eedc6786f0)
+
+### Interacting with the controller
+#### Buttons
+![image](https://github.com/artineering/stadia_ros_node/assets/5471319/5dc4f10f-e04a-4b5e-ae3d-4ba4fae086fc)
+
+#### Axes data
+![image](https://github.com/artineering/stadia_ros_node/assets/5471319/2167cd74-7aa5-4ccb-a1cc-4424ce0251a0)
+
+### Device disconnection
+![image](https://github.com/artineering/stadia_ros_node/assets/5471319/9708d5f1-4895-4c3c-a26b-51c39b5dcf9a)
+
