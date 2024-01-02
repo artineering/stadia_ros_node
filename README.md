@@ -44,7 +44,7 @@ To build this project run
 To deploy this project run
 
 ```bash
->> source ~/ros2_ws/install.setup.bash
+>> source ~/ros2_ws/install/setup.bash
 >> ros2 run stadia stadia_node
 ```
 
